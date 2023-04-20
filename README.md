@@ -134,7 +134,7 @@ Here are some sample augmented images and masks of the dataset:
 <p align="center"><img width = "auto" height= "auto" src="./augmented_images/aug_image_376.jpg" /></p>
 <p align="center"><img width = "auto" height= "auto" src="./augmented_images/aug_mask_376.png" /></p>
 
-to" height= "auto" src="./augmented_images/aug_mask_092.png" /></p>
+## Segmentation Model
 
 ### VGG-16 Encoder based UNet Model
 
