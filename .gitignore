@@ -1,4 +1,7 @@
 augmented-semantic-drone-dataset
+augmented-uavid-dataset
 pretrained_weights
 semantic_drone_dataset
 vgg16_unet_model.h5
+vgg16_unet_model_uavid.h5
+uavid_v1.5_official_release_image
