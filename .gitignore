@@ -6,3 +6,7 @@ vgg16_unet_model.h5
 vgg16_unet_model_uavid.h5
 uavid_v1.5_official_release_image
 IACV
+data-map2dfusion
+*.ipynb_checkpoints
+*.ini
+predictions/
