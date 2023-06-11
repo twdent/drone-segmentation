@@ -188,7 +188,7 @@ Predictions on Validation Set Images:
 <p align="center"><img width = "auto" height= "auto" src="./predictions/compressed/prediction_23.jpg" /></p>
 
 ## References
-
+This approach and training notebooks were inspired by and make use of tools from https://github.com/ayushdabra/drone-images-semantic-segmentation. 
 
 1. Karen Simonyan and Andrew Zisserman, "**Very Deep Convolutional Networks for Large-Scale Image Recognition**", arXiv:1409.1556, 2014. [\[PDF\]](https://arxiv.org/pdf/1409.1556v6.pdf)
 2. Olaf Ronneberger, Philipp Fischer and Thomas Brox, "**U-Net: Convolutional Networks for Biomedical Image Segmentation**", arXiv:1505. 04597, 2015. [\[PDF\]](https://arxiv.org/pdf/1505.04597.pdf)
